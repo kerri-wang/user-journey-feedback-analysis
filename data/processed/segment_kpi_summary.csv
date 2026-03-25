@@ -1,0 +1,5 @@
+segment_name,segment_value,sessions,entry_dropoff_rate,browse_dropoff_rate,pricing_reach_rate,application_reach_rate,feedback_count,negative_feedback_rate,avg_sentiment_score,avg_rating,top_theme
+user_type,new,1488,0.379,0.2036,0.1364,0.0517,711,0.4276,-0.24,2.58,navigation
+user_type,returning,912,0.1897,0.2193,0.2632,0.1272,289,0.2768,0.14,3.02,product_value
+device_type,desktop,761,0.2484,0.2194,0.2326,0.0907,244,0.3238,0.05,2.87,product_value
+device_type,mobile,1639,0.3344,0.205,0.1623,0.0757,756,0.4034,-0.19,2.65,navigation

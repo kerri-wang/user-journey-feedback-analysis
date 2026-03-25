@@ -1,0 +1,5 @@
+segment_name,segment_value,total_sessions,entry_dropoffs,entry_dropoff_rate,browse_dropoffs,browse_dropoff_rate,product_detail_dropoffs,product_detail_dropoff_rate,pricing_dropoffs,pricing_dropoff_rate,application_reached,application_reach_rate
+device_type,desktop,761,189,0.2484,167,0.2194,208,0.2733,128,0.1682,69,0.0907
+device_type,mobile,1639,548,0.3344,336,0.205,436,0.266,195,0.119,124,0.0757
+user_type,new,1488,564,0.379,303,0.2036,387,0.2601,157,0.1055,77,0.0517
+user_type,returning,912,173,0.1897,200,0.2193,257,0.2818,166,0.182,116,0.1272

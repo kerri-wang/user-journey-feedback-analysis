@@ -1,0 +1,10 @@
+segment_name,segment_value,feedback_count,negative_feedback_count,negative_feedback_rate,avg_sentiment_score,avg_rating,top_theme
+user_type,new,711,304,0.4276,-0.24,2.58,navigation
+user_type,returning,289,80,0.2768,0.14,3.02,product_value
+device_type,desktop,244,79,0.3238,0.05,2.87,product_value
+device_type,mobile,756,305,0.4034,-0.19,2.65,navigation
+journey_stage,application,62,16,0.2581,0.23,3.0,product_value
+journey_stage,browse,259,97,0.3745,-0.11,2.71,product_value
+journey_stage,entry,382,171,0.4476,-0.31,2.53,navigation
+journey_stage,pricing,89,31,0.3483,-0.03,2.8,product_value
+journey_stage,product_detail,208,69,0.3317,0.02,2.89,product_value
