@@ -132,6 +132,7 @@ user-journey-feedback-analysis/
     ├── generate_fake_data.py
     ├── sentiment_analysis.py
     └── reporting.py
+```
 
 ## Key Outputs
 
